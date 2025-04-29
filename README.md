@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramesh988025
+- 👋 Hi, I’m Ramesh (@ramesh988025)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on hackathons
