@@ -27,4 +27,4 @@ Currently Learning:Python (Advanced) · SQL · React · FastAPI · Cloud
 - 📈 Documenting my dev journey publicly
 
 ## 📫 Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/ramesh-mali-patil-539639357)]
+[![LinkedIn](linkedin.com/in/ramesh988025)]
